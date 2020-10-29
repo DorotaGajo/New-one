@@ -1,0 +1,19 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .container__h1 {
+    text-align: center;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: rgb(17, 98, 190);
+    padding: 15px;
+  }
+  
+  .container__paragraph {
+    text-align: left;
+    margin-top: 60x;
+    font-size: 15px;
+    font-style: italic;}
