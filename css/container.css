@@ -2,11 +2,16 @@
     max-width: 800px;
     margin: 0 auto;
     text-align: center;
+    background-image: url("../images/money.png");
+    width: 800px;
+height: 400px;
+    /* background-size: auto; */
+    /* background-position: center; */
   }
   
   .container__h1 {
     text-align: center;
-    font-weight: normal;
+    font-weight: bold;
     text-transform: uppercase;
     color: rgb(17, 98, 190);
     padding: 15px;
@@ -14,6 +19,7 @@
   
   .container__paragraph {
     text-align: left;
+    margin-left: 15px;
     margin-top: 60x;
     font-size: 15px;
     font-style: italic;}
